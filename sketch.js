@@ -7,7 +7,7 @@ const Body = Matter.Body;
 
 var engine, world, paper1, ground, dustbin1, dustbin2, dustbin3; 
 function setup() {
-    createCanvas(1200, 800);
+    createCanvas(1475, 800);
     rectMode(CENTER);
 
     engine = Engine.create();
